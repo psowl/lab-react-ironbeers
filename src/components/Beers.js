@@ -19,6 +19,8 @@ getAllBeers= () =>{
   })
 }
 
+
+
 componentDidMount() {
   this.getAllBeers();
 }
@@ -44,7 +46,7 @@ render() {
 
           )})
         }
-      
+     
     </div>
   )
 }  
